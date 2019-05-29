@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quanthor</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="story">What does the app do?\n\n
+Get rid of the negative effects of EMF and improve your sleep.\n\n
+Set and use every night, before bedtime, "a list of 3 steps for a better sleep without EMF"\n\n
+After checking the list you can set a reminder for the next night.\n\n
+Happy sleep - by QuanThor\n\n
+</string>
+    <string name="about">Quanthor has developed this application at customer request. With over 20 products to help protect against EMF, Quanthor now wants to innovate on the digital side by offering solutions to reduce EMF in their lives.
+</string>
+</resources>
